@@ -1,6 +1,6 @@
 # Pingctl
 
-VB6 working copy of `Pingctl` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: ctlPing. Output: `ctlPing.ocx`. `VersionCompanyName`: CSC.
+CSC VB6 ActiveX ping control (`ctlPing.ocx` / `ctlping.vbp`): invisible-at-runtime `uPing` user control with IP/timeout properties and ICMP helpers (`ping.bas`) for embedding ping in other VB6 apps. Open `ctlping.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** ActiveX OCX
 
